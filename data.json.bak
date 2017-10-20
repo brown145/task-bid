@@ -1,0 +1,24 @@
+[{
+    "id": "1",
+    "title": "test1",
+    "subtitle": "sub1",
+    "startedTime": null,
+    "bids": null
+  },
+  {
+    "id": "2",
+    "title": "test2",
+    "subtitle": "sub2",
+    "startedTime": 1508474527454,
+    "bids": [{
+      "bidder": "scott",
+      "bid": 3
+    }, {
+      "bidder": "jon",
+      "bid": 3
+    }, {
+      "bidder": "joe",
+      "bid": 5
+    }]
+  }
+]
